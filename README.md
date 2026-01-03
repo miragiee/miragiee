@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 🎓 I'm a student
-- 💻 I’m currently learning C++ and Game Development
-- 📖 I make videos on youtube!
+
+🎓 I'm a student and aspiring game developer from Russia.
+💻 I’m currently learning C++ and Game Development.
 
 <!--
 **miragiee/miragiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
