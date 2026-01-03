@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 I'm a student and aspiring game developer from Russia.
+🎓 I'm a student from Russia
 
 💻 I’m currently learning C++ and Game Development.
 
