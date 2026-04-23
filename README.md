@@ -1,8 +1,4 @@
-## Hi there 👋
-
-🎓 I'm a student from Russia
-
-💻 I’m currently learning C++ and Game Development.
+## Hello
 
 <!--
 **miragiee/miragiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
