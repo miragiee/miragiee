@@ -1,4 +1,11 @@
-## Hello
+## Привет
+
+Вот мой любимый мем.
+
+<img width="604" height="440" alt="Ебать Крольчуга" src="https://github.com/user-attachments/assets/201600a1-240a-44ca-99c1-44ba19908338" />
+
+
+
 
 <!--
 **miragiee/miragiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
