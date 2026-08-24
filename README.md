@@ -17,7 +17,6 @@ I'm a student from Russia.
   <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/transparent/2-most-commit-language.svg" />
 </div>
 -->
-## GitHub Contributions
 
 <div align="center">
   <picture>
