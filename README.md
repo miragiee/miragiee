@@ -30,7 +30,7 @@ I'm a student from Russia.
   </picture>
 </div>
 -->
-<div align="center" display:flex; flex-direction:row; gap:15px;>
+<div align="center" display:flex; flex-direction:row; gap:40px;>
   <a href="https://leetcode.com/u/miragiee/">LeetCode</a>
   <a href="https://www.codewars.com/users/miragiee">CodeWars</a>
 </div>
