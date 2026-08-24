@@ -15,7 +15,7 @@ I'm a student from Russia.
 </div>
 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/dist/github-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/github-snake-onedark.svg" alt="Snake Animation" />
 </p>
 <!--
 <div align="center">
