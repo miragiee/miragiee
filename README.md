@@ -5,9 +5,9 @@ I'm a student from Russia.
 ## GitHub stats
 
 <!-- Общая статистика -->
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats-extended.vercel.app/api?username=miragiee&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=miragiee&theme=dark" />
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=miragiee&theme=dark&layout=compact" />
 </div>
 
 <!--
