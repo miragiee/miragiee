@@ -4,9 +4,9 @@ I'm a student from Russia.
 
 ## Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats-extended.vercel.app/api?username=miragiee&show_icons=true&theme=onedark&card_width=400&card_height=195" width="400" />
-  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=miragiee&theme=onedark&layout=donut&card_width=200&card_height=195" width="200" />
+<div align="center">
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=miragiee&show_icons=true&theme=onedark&card_width=400&card_height=195" width="400" style="display: inline-block; vertical-align: middle;" />
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=miragiee&theme=onedark&layout=donut&card_width=200&card_height=195" width="400" style="display: inline-block; vertical-align: middle;" />
 </div>
 <!--
 <div align="center">
