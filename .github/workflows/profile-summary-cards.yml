@@ -2,8 +2,8 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Обновление каждый день в 00:00
+  workflow_dispatch:     # Можно запустить вручную
 
 jobs:
   build:
@@ -19,4 +19,4 @@ jobs:
           SQLOBJECTS: "totalCommits,totalRepos,langsByRepo,langsByCommit,activityOverview"
           EXCLUDE_EMPTY_LANGS: true
           CONFIG_VERSION: "v2"
-          THEME: "default"
+          THEME: "default"  # Можно поменять на: dark, minimal, dracula, etc.
