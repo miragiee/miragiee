@@ -14,7 +14,10 @@ I'm a student from Russia.
   <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/transparent/2-most-commit-language.svg" />
 </div>
 -->
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miragiee&theme=one-dark&hide_border=true&days=31&height=300" alt="Activity Graph" />
+</p>
+<!--
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miragiee/miragiee/main/github-snake-dark.svg" />
@@ -22,6 +25,7 @@ I'm a student from Russia.
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/miragiee/miragiee/main/github-snake.svg" />
   </picture>
 </div>
+-->
 
 <!--
 **miragiee/miragiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
