@@ -3,14 +3,10 @@
 I'm a student from Russia.
 
 ## Stats
+[![](https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/discord_old_blurple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/default/0-profile-details-2026-08-24.svg" alt="profile" />
-  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/default/1-repos-per-language-2026-08-24.svg" alt="languages" />
-  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/default/2-most-commit-language-2026-08-24.svg" alt="commits" />
-  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/default/3-stats-2026-08-24.svg" alt="stats" />
-  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/default/4-productive-time-2026-08-24.svg" alt="time" />
-</div>
 <!--
 **miragiee/miragiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
