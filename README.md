@@ -4,9 +4,9 @@ I'm a student from Russia.
 
 ## Stats
 <div align="center">
-  <div style="display: flex; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
-    <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos per Language" width="48%"/>
-    <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most Commit Language" width="48%"/>
+  <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos per Language" width="24%"/>
+    <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most Commit Language" width="24%"/>
   </div>
 </div>
 
