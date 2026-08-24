@@ -5,9 +5,9 @@ I'm a student from Russia.
 ## GitHub stats
 
 <!-- Общая статистика -->
-![Stats](https://github-readme-stats-extended.vercel.app/api?username=miragiee&show_icons=true&theme=nord-dark)
+![Stats](https://github-readme-stats-extended.vercel.app/api?username=miragiee&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=miragiee&theme=nord-dark)
+![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=miragiee&theme=onedark)
 
 <!--
 <div align="center">
