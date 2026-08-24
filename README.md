@@ -2,7 +2,7 @@
 
 I'm a student from Russia.
 
-## GitHub stats
+## Stats
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">  
   <div style="margin: 0 auto;">
