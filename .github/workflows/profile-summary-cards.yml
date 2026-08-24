@@ -2,21 +2,25 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Обновление каждый день в 00:00
-  workflow_dispatch:     # Можно запустить вручную
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
-          SQLOBJECTS: "totalCommits,totalRepos,langsByRepo,langsByCommit,activityOverview"
-          EXCLUDE_EMPTY_LANGS: true
-          CONFIG_VERSION: "v2"
-          THEME: "default"  # Можно поменять на: dark, minimal, dracula, etc.
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 3
+          EXCLUDE: ""
+          AUTO_PUSH: true
+          THEME: ""
