@@ -2,8 +2,6 @@
 
 I'm a student from Russia.
 
-1811
-
 ## Stats
 
 [![](https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
