@@ -5,7 +5,8 @@ I'm a student from Russia.
 ## GitHub stats
 
 <!-- Общая статистика -->
-![GitHub Card](https://githubcard.com/api/card?username=miragiee&theme=dark)
+![Stats](https://github-readme-stats-extended.vercel.app/api?username=miragiee&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=miragiee&theme=dark)
 
 <!--
 <div align="center">
