@@ -2,14 +2,6 @@
 
 I'm a student from Russia.
 
-## Stats
-<div align="left">
-  <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos per Language"/>
-    <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most Commit Language"/>
-  </div>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miragiee/miragiee/main/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miragiee/miragiee/main/github-snake.svg" />
