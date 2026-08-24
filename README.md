@@ -5,10 +5,10 @@ I'm a student from Russia.
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-extended.vercel.app/api?username=miragiee&show_icons=true&theme=nord&card_width=495&card_height=195" width="495" />
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=miragiee&show_icons=true&theme=dracula&card_width=495&card_height=195" width="495" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=miragiee&theme=nord&layout=compact&card_width=495&card_height=195" width="495" />
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=miragiee&theme=dracula&layout=compact&card_width=495&card_height=195" width="495" />
 </p>
 <!--
 <div align="center">
