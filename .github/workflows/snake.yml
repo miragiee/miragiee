@@ -19,5 +19,5 @@ jobs:
         with:
           github_user_name: miragiee
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-onedark.svg?color_snake=#e06c75&color_dots=#282c34,#3e4451,#5c6370,#61afef,#c678dd
+            github-snake.svg
+            github-snake-onedark.svg?color_snake=#e06c75&color_dots=#282c34,#3e4451,#5c6370,#61afef,#c678dd
