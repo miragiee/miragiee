@@ -22,7 +22,7 @@ jobs:
           DAYS=$(( ( $(date -d "$TODAY" +%s) - $(date -d "$START_DATE" +%s) ) / 86400 + 1 ))
 
           # Replace the placeholder in README
-          sed -i "s/\*\*[0-9]\+ awesome days\*\*/**${DAYS} awesome days**/g" README.md
+          sed -i "days-counter" README.md
 
       - name: Commit and push if changed
         run: |
