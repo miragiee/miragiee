@@ -15,7 +15,7 @@ I'm a student from Russia.
 </div>
 -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miragiee&theme=one-dark&hide_border=true&days=31&height=300" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/dist/github-snake-dark.svg" alt="Snake Animation" />
 </p>
 <!--
 <div align="center">
