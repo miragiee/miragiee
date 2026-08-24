@@ -31,11 +31,9 @@ I'm a student from Russia.
 </div>
 -->
 <div align="center">
-  * &nbsp;&nbsp;
   <a href="https://leetcode.com/u/miragiee/">[LeetCode]</a>
   &nbsp;&nbsp; * &nbsp;&nbsp;
   <a href="https://www.codewars.com/users/miragiee">[CodeWars]</a>
-  &nbsp;&nbsp; *
 </div>
 <!--
 **miragiee/miragiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
