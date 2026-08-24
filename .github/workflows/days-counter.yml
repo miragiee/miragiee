@@ -1,0 +1,34 @@
+name: Update Days Counter
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required for pushing changes
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Calculate Days
+        run: |
+          START_DATE="2021-09-09" # Change to your join date
+          TODAY=$(date +%Y-%m-%d)
+          DAYS=$(( ( $(date -d "$TODAY" +%s) - $(date -d "$START_DATE" +%s) ) / 86400 + 1 ))
+
+          # Replace the placeholder in README
+          sed -i "s/\*\*[0-9]\+ awesome days\*\*/**${DAYS} awesome days**/g" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "No changes to commit" || (
+            git commit -am "Updated days counter to ${DAYS} days"
+            git push
+          )
