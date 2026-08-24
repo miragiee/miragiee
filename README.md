@@ -5,8 +5,8 @@ I'm a student from Russia.
 ## GitHub stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/transparent/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/transparent/2-most-commit-language.svg" />
 </div>
 
 ## GitHub Contributions
