@@ -4,13 +4,8 @@ I'm a student from Russia.
 
 ## GitHub stats
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/default/0-profile-details-2026-08-24.svg" alt="profile" />
-  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/default/1-repos-per-language-2026-08-24.svg" alt="languages" />
-  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/default/2-most-commit-language-2026-08-24.svg" alt="commits" />
-  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/default/3-stats-2026-08-24.svg" alt="stats" />
-  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/default/4-productive-time-2026-08-24.svg" alt="time" />
-</div>
+![](https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
 
 ## GitHub Contributions
 
