@@ -16,8 +16,17 @@ jobs:
       
       - name: Generate Snake Animation
         uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: miragiee
           outputs: |
             github-snake.svg
             github-snake-onedark.svg?color_snake=#e06c75&color_dots=#282c34,#3e4451,#5c6370,#61afef,#c678dd
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add github-snake*.svg
+          git commit -m "Generate snake animation" || echo "No changes to commit"
+          git push
