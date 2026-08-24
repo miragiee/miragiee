@@ -14,9 +14,13 @@ I'm a student from Russia.
   <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/transparent/2-most-commit-language.svg" />
 </div>
 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/github-snake-onedark.svg" alt="Snake Animation" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miragiee/miragiee/main/github-snake-onedark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miragiee/miragiee/main/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/miragiee/miragiee/main/github-snake.svg" />
+  </picture>
+</div>
 <!--
 <div align="center">
   <picture>
