@@ -3,9 +3,11 @@
 I'm a student from Russia.
 
 ## Stats
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Languages"/>
-  <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Commits"/>
+<div align="center">
+  <div style="display: flex; justify-content: space-around; gap: 15px; flex-wrap: wrap;">
+    <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="45%" alt="Languages"/>
+    <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="45%" alt="Commits"/>
+  </div>
 </div>
 
 
