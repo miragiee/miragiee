@@ -5,8 +5,8 @@ I'm a student from Russia.
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-extended.vercel.app/api?username=miragiee&show_icons=true&theme=materialpalenight&card_width=400&card_height=195" width="400" style="display: inline-block; vertical-align: middle;" />
-  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=miragiee&theme=materialpalenight&layout=donut&card_width=200&card_height=195" width="275" style="display: inline-block; vertical-align: middle;" />
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=miragiee&show_icons=true&theme=transparent&card_width=400&card_height=195" width="400" style="display: inline-block; vertical-align: middle;" />
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=miragiee&theme=transparent&layout=donut&card_width=200&card_height=195" width="275" style="display: inline-block; vertical-align: middle;" />
 </div>
 <!--
 <div align="center">
