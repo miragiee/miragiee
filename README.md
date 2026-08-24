@@ -3,9 +3,18 @@
 I'm a student from Russia.
 
 ## Stats
-
-![](https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
+<div align="center">  
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="100%"/>
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <!--
