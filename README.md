@@ -4,16 +4,12 @@ I'm a student from Russia.
 
 ## Stats
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">  
-  <div style="margin: 0 auto;">
-    <img src="https://github-readme-stats-extended.vercel.app/api?username=miragiee&show_icons=true&theme=dark&card_width=495&card_height=195" width="495" style="display: block; margin: 0 auto;" />
-  </div>
-  
-  <div style="margin: 0 auto;">
-    <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=miragiee&theme=dark&layout=compact&card_width=495&card_height=195" width="495" style="display: block; margin: 0 auto;" />
-  </div>
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=miragiee&show_icons=true&theme=catppuccin_mocha&card_width=495&card_height=195" width="495" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=miragiee&theme=catppuccin_mocha&layout=compact&card_width=495&card_height=195" width="495" />
+</p>
 <!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/transparent/1-repos-per-language.svg" />
