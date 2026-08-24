@@ -30,8 +30,9 @@ I'm a student from Russia.
   </picture>
 </div>
 -->
-<div align="center" style="display: flex; justify-content: center; gap: 120px;">
+<div align="center">
   <a href="https://leetcode.com/u/miragiee/">LeetCode</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.codewars.com/users/miragiee">CodeWars</a>
 </div>
 <!--
