@@ -4,10 +4,14 @@ I'm a student from Russia.
 
 ## GitHub stats
 
-<!-- Общая статистика -->
-<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats-extended.vercel.app/api?username=miragiee&show_icons=true&theme=dark&card_width=495&card_height=195" width="495" />
-  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=miragiee&theme=dark&layout=compact&card_width=495&card_height=195" width="495" />
+<div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">  
+  <div style="margin: 0 auto;">
+    <img src="https://github-readme-stats-extended.vercel.app/api?username=miragiee&show_icons=true&theme=dark&card_width=495&card_height=195" width="495" style="display: block; margin: 0 auto;" />
+  </div>
+  
+  <div style="margin: 0 auto;">
+    <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=miragiee&theme=dark&layout=compact&card_width=495&card_height=195" width="495" style="display: block; margin: 0 auto;" />
+  </div>
 </div>
 
 <!--
