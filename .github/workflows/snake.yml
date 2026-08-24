@@ -2,7 +2,7 @@ name: Generate Snake For Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Каждый день в 00:00 UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -20,5 +20,4 @@ jobs:
           github_user_name: miragiee
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#0e4429,#006d32,#26a641,#39d353,#26a641
+            dist/github-snake-onedark.svg?color_snake=#e06c75&color_dots=#282c34,#3e4451,#5c6370,#61afef,#c678dd
