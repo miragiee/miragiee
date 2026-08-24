@@ -7,6 +7,10 @@ I'm a student from Russia.
 <!-- Общая статистика -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miragiee&show_icons=true&theme=dark&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miragiee&theme=dark&hide_border=true&layout=compact)
+
+![Streak Stats](https://streak-stats.demolab.com?user=miragiee&theme=dark&hide_border=true)
+
 <!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/transparent/1-repos-per-language.svg" />
