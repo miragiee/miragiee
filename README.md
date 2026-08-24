@@ -32,7 +32,7 @@ I'm a student from Russia.
 -->
 <div align="center">
   <a href="https://leetcode.com/u/miragiee/">[LeetCode]</a>
-  &nbsp;&nbsp; * &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.codewars.com/users/miragiee">[CodeWars]</a>
 </div>
 <!--
