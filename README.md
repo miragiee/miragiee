@@ -2,8 +2,6 @@
 
 I'm a student from Russia.
 
-![Stats](https://github-readme-stats-alpha.vercel.app/api?username=miragiee&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=miragiee&layout=compact)
 
 <!--
 **miragiee/miragiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
