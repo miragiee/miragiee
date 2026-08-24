@@ -4,11 +4,15 @@ I'm a student from Russia.
 
 ## GitHub stats
 
+<!-- Общая статистика -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miragiee&show_icons=true&theme=dark&hide_border=true)
+
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/transparent/1-repos-per-language.svg" />
   <img src="https://raw.githubusercontent.com/miragiee/miragiee/main/profile-summary-card-output/transparent/2-most-commit-language.svg" />
 </div>
-
+-->
 ## GitHub Contributions
 
 <div align="center">
