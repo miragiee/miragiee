@@ -20,9 +20,14 @@ jobs:
           START_DATE="2021-09-09" # Change to your join date
           TODAY=$(date +%Y-%m-%d)
           DAYS=$(( ( $(date -d "$TODAY" +%s) - $(date -d "$START_DATE" +%s) ) / 86400 + 1 ))
+          
+          echo "Calculated days: $DAYS"
 
-          # Replace the placeholder in README
-          sed -i "days-counter" README.md
+          # Replace the placeholder in README - CORRECTED LINE
+          sed -i "s/days-counter/${DAYS}/g" README.md
+          
+          # Optional: Display the change
+          cat README.md | grep -A2 -B2 "$DAYS"
 
       - name: Commit and push if changed
         run: |
