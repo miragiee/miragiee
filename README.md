@@ -37,7 +37,7 @@ C/C++
 ### Experienced with
 C#, Unity, Git, MySQL, PHP, Laravel, HTML, CSS, JavaScript, React.
 
-## Code Editors
+### Code Editors
 Zed, Visual Studio Code
 
 <div align="center">
