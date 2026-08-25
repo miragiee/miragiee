@@ -32,24 +32,13 @@ I'm a student from Russia.
 -->
 
 ### Currently learning
-- C
-- C++
+C/C++
 
 ### Experienced with
-- C#
-- Unity
-- Git
-- MySQL
-- PHP
-- Laravel
-- HTML
-- CSS
-- JavaScript
-- React
+C#, Unity, Git, MySQL, PHP, Laravel, HTML, CSS, JavaScript, React.
 
 ## Code Editors
-- Zed
-- Visual Studio Code
+Zed, Visual Studio Code
 
 <div align="center">
   <a href="https://leetcode.com/u/miragiee/">LeetCode</a>
