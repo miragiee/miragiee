@@ -2,6 +2,28 @@
 
 I'm a student from Russia.
 
+## Skills
+
+### Currently learning
+- C
+- C++
+
+### Experienced with
+- C#
+- Unity
+- Git
+- MySQL
+- PHP
+- Laravel
+- HTML
+- CSS
+- JavaScript
+- React
+
+## Code Editors
+- Zed
+- Visual Studio Code
+
 ## Stats
 
 <div align="center">
