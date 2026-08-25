@@ -1,4 +1,4 @@
-# Jambo, Comrades.
+# Jambo, brothers.
 
 I'm a student from Russia.
 
