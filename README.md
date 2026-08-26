@@ -34,10 +34,10 @@ I'm a student from Russia.
 ### Currently learning
 C/C++.
 
-## Wanna learn
+### Wanna learn
 Rust
 
-## Familiar with
+### Familiar with
 Linux, Python, VUE, Vite
 
 ### Experienced with
