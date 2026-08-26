@@ -34,8 +34,14 @@ I'm a student from Russia.
 ### Currently learning
 C/C++.
 
+## Wanna learn
+Rust
+
+## Familiar with
+Linux, Python, VUE, Vite
+
 ### Experienced with
-C#, Unity, Git, MySQL, PHP, Laravel, HTML, CSS, JavaScript, React.
+Git, C#, Unity, MySQL, PHP, Laravel, HTML, CSS, JavaScript, React, WPF.
 
 ### Code Editors
 Zed, Visual Studio Code.
