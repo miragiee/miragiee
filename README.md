@@ -5,9 +5,9 @@ I'm a student from Russia.
 ## Stats
 
 <div align="center">
-  ![Stats](stats.svg)
-  ![Top Languages](top-langs.svg)
-  ![Pinned](pin-stats-organization-github-readme-stats.svg)middle;" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miragiee/miragiee/main/stats.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miragiee/miragiee/main/top-langs.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miragiee/miragiee/main/pin-stats-organization-github-readme-stats.svg" />
 </div>
 <!--
 <div align="center">
