@@ -5,7 +5,7 @@ I'm a student from Russia.
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-extended.vercel.app/api?username=miragiee&show_icons=true&theme=one_dark_pro&card_width=400&card_height=195" width="400" style="display: inline-block; vertical-align: middle;" />
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=miragiee&show_icons=true&include_all_commits=true&theme=one_dark_pro)](https://github-stats-extended.vercel.app/api?username=miragiee&show_icons=true&include_all_commits=true&theme=one_dark_pro&height=195&width=400)
   <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=miragiee&theme=one_dark_pro&layout=donut&card_width=200&card_height=195" width="275" style="display: inline-block; vertical-align: middle;" />
   <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miragiee/miragiee/main/stats.svg" />
