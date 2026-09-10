@@ -6,7 +6,7 @@ I'm a student from Russia.
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=miragiee&show_icons=true&include_all_commits=true&theme=one_dark_pro&height=195&width=400">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=miragiee&layout=donut&langs_count=6&theme=one_dark_pro&card_width=300">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=miragiee&layout=donut&langs_count=6&theme=one_dark_pro&card_width=150">
   <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miragiee/miragiee/main/stats.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miragiee/miragiee/main/top-langs.svg" />
