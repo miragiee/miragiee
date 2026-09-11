@@ -36,14 +36,8 @@ I'm a student from Russia.
 </div>
 -->
 
-### Currently learning
-C/C++.
-
-### Wanna learn
-Rust.
-
 ### Familiar with
-Linux, Python, VUE, Vite, CMake, Unity, Docker.
+Linux, Python, VUE, Vite, CMake, Unity.
 
 ### Experienced with
 Git, C#, MySQL, PHP, Laravel, HTML, CSS, JavaScript, React, WPF.
