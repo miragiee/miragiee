@@ -3,7 +3,7 @@
 <!-- <p align="center"></p> -->
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,mysql,cmake,unity,cs,c,cpp,figma,html,css,js,ts,react,php,laravel&theme=dark&perline=8">
+  <img src="https://skillicons.dev/icons?i=git,linux,mysql,cmake,c,cpp,cs,unity,figma,html,css,js,ts,react,php,laravel&theme=dark&perline=8">
 </div>
 
 <div align="center">
