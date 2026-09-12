@@ -1,10 +1,9 @@
 # Jambo, brothers.
+I'm a student from Russia.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,linux,mysql,cmake,unity,cs,c,cpp,figma,html,css,js,ts,react,php,laravel&theme=dark&perline=10">
 </div>
-
-I'm a student from Russia.
 
 ## Stats
 
