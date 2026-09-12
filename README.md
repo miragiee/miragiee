@@ -6,6 +6,10 @@
   <img src="https://skillicons.dev/icons?i=git,linux,mysql,cmake,unity,cs,c,cpp,figma,html,css,js,ts,react,php,laravel&theme=dark&perline=8">
 </div>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,neovim,figma,arch,obsidian,ps&theme=dark">
+</div>
+
 ## Stats
 
 <div align="center">
@@ -29,10 +33,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miragiee/miragiee/main/github-snake-onedark.svg" />
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/miragiee/miragiee/main/github-snake.svg" />
   </picture>
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,neovim,figma,arch,obsidian,ps&theme=dark">
 </div>
 
 <!--
