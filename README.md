@@ -27,7 +27,13 @@ I'm a student from Russia.
   </picture>
 </div>
 
-![My Skills](https://skillicons.dev/icons?i=git,linux,cmake,unity,cs,c,cpp,figma,html,css,js,php,laravel,&theme=dark)
+<div align="center">
+  ![Skills](https://skillicons.dev/icons?i=git,linux,mysql,cmake,unity,cs,c,cpp,figma,html,css,js,ts,react,php,laravel&theme=dark)
+</div>
+
+<div align="center">
+  ![Tools](https://skillicons.dev/icons?i=vscode,neovim,figma,arch,obsidian,ps&theme=dark)
+</div>
 <!--
 <div align="center">
   <picture>
