@@ -1,5 +1,9 @@
 # Jambo, brothers.
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,mysql,cmake,unity,cs,c,cpp,figma,html,css,js,ts,react,php,laravel&theme=dark&perline=10">
+</div>
+
 I'm a student from Russia.
 
 ## Stats
@@ -27,9 +31,9 @@ I'm a student from Russia.
   </picture>
 </div>
 
-  ![My Skills](https://skillicons.dev/icons?i=git,linux,mysql,cmake,unity,cs,c,cpp,figma,html,css,js,ts,react,php,laravel&theme=dark&perline=10)
-
-  ![Tools](https://skillicons.dev/icons?i=vscode,neovim,figma,arch,obsidian,ps&theme=dark)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,neovim,figma,arch,obsidian,ps&theme=dark">
+</div>
 
 <!--
 <div align="center">
