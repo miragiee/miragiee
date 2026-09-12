@@ -1,6 +1,6 @@
 # Jambo, brothers.
 
-<!-- <p align="center"></p> -->
+<p align="center">Worked with</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,linux,mysql,cmake,c,cpp,cs,unity,figma,html,css,js,ts,react,php,laravel&theme=dark&perline=8">
