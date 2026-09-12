@@ -28,11 +28,11 @@ I'm a student from Russia.
 </div>
 
 <div align="center">
-  ![My Skills](https://skillicons.dev/icons?i=git,linux,mysql,cmake,unity,cs,c,cpp,figma,html,css,js,ts,react,php,laravel&theme=dark)
+  [![My Skills](https://skillicons.dev/icons?i=git,linux,mysql,cmake,unity,cs,c,cpp,figma,html,css,js,ts,react,php,laravel&theme=dark)](https://skillicons.dev)
 </div>
 
 <div align="center">
-  ![Tools](https://skillicons.dev/icons?i=vscode,neovim,figma,arch,obsidian,ps&theme=dark)
+  [![Tools](https://skillicons.dev/icons?i=vscode,neovim,figma,arch,obsidian,ps&theme=dark)](https://skillicons.dev)
 </div>
 <!--
 <div align="center">
