@@ -28,7 +28,7 @@ I'm a student from Russia.
 </div>
 
 <div align="center">
-  ![Skills](https://skillicons.dev/icons?i=git,linux,mysql,cmake,unity,cs,c,cpp,figma,html,css,js,ts,react,php,laravel&theme=dark)
+  ![My Skills](https://skillicons.dev/icons?i=git,linux,mysql,cmake,unity,cs,c,cpp,figma,html,css,js,ts,react,php,laravel&theme=dark)
 </div>
 
 <div align="center">
