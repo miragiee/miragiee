@@ -1,12 +1,12 @@
 # Jambo, brothers.
 
-## Worked with
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,mysql,cmake,c,cpp,cs,unity,figma,html,css,js,ts,react,php,laravel&theme=dark&perline=8">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,ts,react,php,laravel&theme=dark&perline=8">
 </div>
 
-## Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,mysql,cmake,unity&theme=dark&perline=8">
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=windows,arch,obsidian,vscode,neovim,figma,ps&theme=dark">
