@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=obsidian,vscode,neovim&theme=dark">
+  <img src="https://skillicons.dev/icons?i=windows,arch,obsidian,vscode,neovim&theme=dark">
 </div>
 
 ## Stats
