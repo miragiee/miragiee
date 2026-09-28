@@ -5,12 +5,12 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,mysql,cmake,unity&theme=dark&perline=8">
+  <img src="https://skillicons.dev/icons?i=git,linux,mysql,unity&theme=dark&perline=8">
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=windows,arch,obsidian,vscode,neovim&theme=dark">
-</div>
+</div> -->
 
 ## Stats
 
