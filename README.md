@@ -30,7 +30,7 @@
 ## Hobby
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,unity,blender&theme=dark&perline=8">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,blender&theme=dark&perline=8">
 </div>
 
 
