@@ -1,11 +1,11 @@
 # Jambo, brothers.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,html,css,js,ts,react,php,laravel&theme=dark&perline=10">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel&theme=dark&perline=10">
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,mysql,unity&theme=dark&perline=8">
+  <img src="https://skillicons.dev/icons?i=git,linux,mysql&theme=dark&perline=8">
 </div>
 
 <!-- <div align="center">
@@ -25,6 +25,12 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miragiee/miragiee/main/github-snake-onedark.svg" />
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/miragiee/miragiee/main/github-snake.svg" />
   </picture>
+</div>
+
+## Hobby
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,unity,blender&theme=dark&perline=8">
 </div>
 
 
