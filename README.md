@@ -1,12 +1,12 @@
 # Jambo, brothers.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel&theme=dark&perline=10">
+  <img src="https://skillicons.dev/icons?i=git,linux,mysql,html,css,js,ts,react,php,laravel&theme=dark&perline=10">
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=git,linux,mysql&theme=dark&perline=8">
-</div>
+</div> -->
 
 <!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=windows,arch,obsidian,vscode,neovim&theme=dark">
