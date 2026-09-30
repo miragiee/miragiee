@@ -1,7 +1,7 @@
 # Jambo, brothers.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,mysql,html,css,git,linux&theme=dark&perline=10">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,mysql,html,css,git,linux&theme=dark&perline=5">
 </div>
 
 <!-- <div align="center">
