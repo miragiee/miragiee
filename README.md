@@ -1,6 +1,6 @@
 # Jambo, brothers.
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,mysql,html,css,git,linux&theme=dark&perline=5">
 </div>
 
@@ -14,12 +14,12 @@
 
 ## Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=miragiee&show_icons=true&include_all_commits=true&theme=one_dark_pro">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=miragiee&langs_count=4&theme=one_dark_pro" height=195>
 </div>
 
-<div align="center">
+<div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miragiee/miragiee/main/github-snake-onedark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miragiee/miragiee/main/github-snake-onedark.svg" />
@@ -29,8 +29,13 @@
 
 ## Hobby
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,blender&theme=dark&perline=8">
+</div>
+
+## Currently learning
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=symfony&theme=dark&perline=8">
 </div>
 
 
