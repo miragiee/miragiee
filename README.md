@@ -1,5 +1,7 @@
 # Jambo, brothers.
 
+I'm a web developer from Russia.
+
 ## Stack
 
 <div align="left">
