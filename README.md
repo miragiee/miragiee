@@ -1,7 +1,21 @@
 # Jambo, brothers.
 
+## Stack
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,mysql,html,css,git,linux&theme=dark&perline=10">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,mysql,html,css,git&theme=dark&perline=10">
+</div>
+
+## Currently learning
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=symfony,postgresql,redis,docker&theme=dark&perline=8">
+</div>
+
+## Hobby
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,blender&theme=dark&perline=8">
 </div>
 
 <!-- <div align="center">
@@ -27,15 +41,6 @@
   </picture>
 </div>
 
-## Hobby
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,blender&theme=dark&perline=8">
-</div>
-
-## Currently learning
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=symfony,postgresql,redis,docker&theme=dark&perline=8">
-</div>
 
 
