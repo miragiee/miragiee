@@ -1,11 +1,18 @@
 # Jambo, brothers.
 
-I'm a web developer from Russia.
+I'm a full-stack web-developer from Russia.
 
 ## Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,mysql,html,css,git&theme=dark&perline=10">
+  ### Backend
+  <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark&perline=10">
+  ### Frontend
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark&perline=10">
+  ### Databases
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10">
+  ### Tools
+  <img src="https://skillicons.dev/icons?i=git,figma&theme=dark&perline=10">
 </div>
 
 ## Currently learning
