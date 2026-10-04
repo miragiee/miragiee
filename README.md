@@ -4,39 +4,40 @@ I'm a full-stack web-developer from Russia.
 
 ## Stack
 
+## Stack
+
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <h3>Backend</h3>
-      <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark&perline=10">
+      <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark">
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark&perline=10">
+      <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark">
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <h3>Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark">
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <h3>Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,figma&theme=dark&perline=10">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Currently learning</h3>
-      <img src="https://skillicons.dev/icons?i=symfony,postgresql,redis,docker&theme=dark&perline=8">
-    </td>
-    <td width="50%" valign="top">
-      <h3>Hobby</h3>
-      <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,blender&theme=dark&perline=8">
+      <img src="https://skillicons.dev/icons?i=git,figma&theme=dark">
     </td>
   </tr>
 </table>
 
+## Currently learning
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=symfony,postgresql,redis,docker&theme=dark">
+</div>
+
+## Hobby
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,blender&theme=dark">
+</div>
 
 ## Stats
 
