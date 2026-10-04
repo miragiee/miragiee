@@ -1,6 +1,6 @@
 # Jambo, brothers.
 
-I'm a Fullstack Web Developer from Russia.
+I'm a Fullstack web-developer from Russia.
 
 ## Stack
 
