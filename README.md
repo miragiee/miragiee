@@ -8,7 +8,7 @@ I'm a full-stack web-developer from Russia.
 |:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=git,figma&theme=dark&perline=10"> |
 
-## Currently Learning
+### Currently Learning
 <img src="https://skillicons.dev/icons?i=symfony,postgresql,redis,docker&theme=dark&perline=10">
 
 ## Stats
