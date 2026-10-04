@@ -4,8 +4,6 @@ I'm a full-stack web-developer from Russia.
 
 ## Stack
 
-## Stack
-
 ### Backend
 <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark&perline=10">
   
