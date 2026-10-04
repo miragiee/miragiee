@@ -27,8 +27,11 @@ I'm a full-stack web-developer from Russia.
   </picture>
 </div>
 
-## Hobby
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,blender&theme=dark&perline=10">
+## Hobbies
+
+| Game Development | 3D Modeling | Systems Programming | Video Production |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=cs,unity&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=blender&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=obs,resolve&theme=dark&perline=10"> |
 
 <!-- <div align="left">
 
