@@ -25,43 +25,18 @@ I'm a full-stack web-developer from Russia.
       <img src="https://skillicons.dev/icons?i=git,figma&theme=dark&perline=10">
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Currently learning</h3>
+      <img src="https://skillicons.dev/icons?i=symfony,postgresql,redis,docker&theme=dark&perline=8">
+    </td>
+    <td width="50%" valign="top">
+      <h3>Hobby</h3>
+      <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,blender&theme=dark&perline=8">
+    </td>
+  </tr>
 </table>
 
-
-<!-- <div align="left">
-  
-### Backend
-<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark&perline=10">
-  
-### Frontend
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark&perline=10">
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10">
-  
-### Tools
-<img src="https://skillicons.dev/icons?i=git,figma&theme=dark&perline=10">
-</div> -->
-
-## Currently learning
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=symfony,postgresql,redis,docker&theme=dark&perline=8">
-</div>
-
-## Hobby
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,blender&theme=dark&perline=8">
-</div>
-
-<!-- <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,mysql&theme=dark&perline=8">
-</div> -->
-
-<!-- <div align="center">
-  <img src="https://skillicons.dev/icons?i=windows,arch,obsidian,vscode,neovim&theme=dark">
-</div> -->
 
 ## Stats
 
@@ -78,6 +53,26 @@ I'm a full-stack web-developer from Russia.
   </picture>
 </div>
 
+<!-- <div align="left">
+  
+### Backend
+<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark&perline=10">
+  
+### Frontend
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark&perline=10">
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10">
+  
+### Tools
+<img src="https://skillicons.dev/icons?i=git,figma&theme=dark&perline=10">
+</div> -->
 
 
+<!-- <div align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,mysql&theme=dark&perline=8">
+</div> -->
 
+<!-- <div align="center">
+  <img src="https://skillicons.dev/icons?i=windows,arch,obsidian,vscode,neovim&theme=dark">
+</div> -->
