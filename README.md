@@ -6,26 +6,18 @@ I'm a full-stack web-developer from Russia.
 
 ## Stack
 
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <h3>Backend</h3>
-      <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark">
-    </td>
-    <td width="25%" valign="top">
-      <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark">
-    </td>
-    <td width="25%" valign="top">
-      <h3>Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark">
-    </td>
-    <td width="25%" valign="top">
-      <h3>Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,figma&theme=dark">
-    </td>
-  </tr>
-</table>
+### Backend
+<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark&perline=10">
+  
+### Frontend
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark&perline=10">
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10">
+  
+### Tools
+<img src="https://skillicons.dev/icons?i=git,figma&theme=dark&perline=10">
+</div> -->
 
 ## Currently learning
 
@@ -55,19 +47,7 @@ I'm a full-stack web-developer from Russia.
 </div>
 
 <!-- <div align="left">
-  
-### Backend
-<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark&perline=10">
-  
-### Frontend
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark&perline=10">
 
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10">
-  
-### Tools
-<img src="https://skillicons.dev/icons?i=git,figma&theme=dark&perline=10">
-</div> -->
 
 
 <!-- <div align="center">
