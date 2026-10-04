@@ -35,7 +35,7 @@
 
 ## Currently learning
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=symfony&theme=dark&perline=8">
+  <img src="https://skillicons.dev/icons?i=symfony,postgresql,redis,docker&theme=dark&perline=8">
 </div>
 
 
