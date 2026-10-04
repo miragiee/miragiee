@@ -11,9 +11,6 @@ I'm a full-stack web-developer from Russia.
 ## Currently Learning
 <img src="https://skillicons.dev/icons?i=symfony,postgresql,redis,docker&theme=dark&perline=10">
 
-## Hobby
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,blender&theme=dark&perline=10">
-
 ## Stats
 
 <div align="left">
@@ -28,6 +25,9 @@ I'm a full-stack web-developer from Russia.
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/miragiee/miragiee/main/github-snake.svg" />
   </picture>
 </div>
+
+## Hobby
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,blender&theme=dark&perline=10">
 
 <!-- <div align="left">
 
