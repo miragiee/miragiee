@@ -5,18 +5,24 @@ I'm a full-stack web-developer from Russia.
 ## Stack
 
 <div align="left">
-  
+  <div style="display: flex; flex-direction: row; gap: auto;">
+    
   ### Backend
   <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark&perline=10">
   
   ### Frontend
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark&perline=10">
-  
+  </div>
+
+  <div style="display: flex; flex-direction: row; gap: auto;">
+    
   ### Databases
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10">
   
   ### Tools
   <img src="https://skillicons.dev/icons?i=git,figma&theme=dark&perline=10">
+  </div>
+
 </div>
 
 ## Currently learning
