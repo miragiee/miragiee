@@ -11,8 +11,8 @@ I'm a fullstack web-developer from Russia.
 ## Stats
 
 <div align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=miragiee&show_icons=true&include_all_commits=true&theme=one_dark_pro">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=miragiee&langs_count=4&theme=one_dark_pro" height=195>
+  <img src="https://github-stats-extended.vercel.app/api?username=miragiee&show_icons=true&include_all_commits=true">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=miragiee&langs_count=4" height=195>
 </div>
 
 <div align="left">
