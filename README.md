@@ -6,7 +6,7 @@ I'm a fullstack web-developer from Russia.
 
 | Backend | Frontend | Databases | Tools | Currently learning |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=git,figma&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=symfony,postgresql,redis,docker&theme=dark&perline=10"> |
+| <img src="https://skillicons.dev/icons?i=php,laravel,cs&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=git,figma&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=symfony,postgresql,redis,docker&theme=dark&perline=10"> |
 
 ## Stats
 
@@ -27,7 +27,7 @@ I'm a fullstack web-developer from Russia.
 
 | Game Development | 3D Modeling | C Programming |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=cs,unity&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=blender&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark&perline=10"> |
+| <img src="https://skillicons.dev/icons?i=cs,unity,rust,bevy&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=blender&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark&perline=10"> |
 
 <!-- <div align="left">
 
