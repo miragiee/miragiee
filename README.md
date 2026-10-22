@@ -27,7 +27,7 @@ I'm a fullstack web-developer from Russia.
 
 | Game Development | 3D Modeling | C Programming |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=cs,unity,rust,bevy&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=blender&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark&perline=10"> |
+| <img src="https://skillicons.dev/icons?i=cs,unity&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=blender&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark&perline=10"> |
 
 <!-- <div align="left">
 
