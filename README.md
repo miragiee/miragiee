@@ -9,9 +9,10 @@ I'm a computer science student from Russia.
 | <img src="https://skillicons.dev/icons?i=php,laravel,cs&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=git,figma&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=symfony,postgresql,redis,docker&theme=dark&perline=10"> |
 
 ## Stats
-
 <div align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=miragiee&show_icons=true&include_all_commits=true&theme=one_dark_pro&bg_color=00000000&hide_border=true">
+</div>
+<div align="left">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=miragiee&langs_count=4&theme=one_dark_pro&bg_color=00000000&hide_border=true&layout=pie">
 </div>
 
