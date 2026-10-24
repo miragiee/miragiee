@@ -1,6 +1,6 @@
 # Jambo, brothers.
 
-I'm a fullstack web-developer from Russia.
+I'm a computer science student from Russia.
 
 ## Stack
 
@@ -28,39 +28,3 @@ I'm a fullstack web-developer from Russia.
 | Game Development | 3D Modeling | C Programming |
 | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=cs,unity&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=blender&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark&perline=10"> |
-
-<!-- <div align="left">
-
-### Backend
-<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark&perline=10">
-  
-### Frontend
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark&perline=10">
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10">
-  
-### Tools
-<img src="https://skillicons.dev/icons?i=git,figma&theme=dark&perline=10">
-
-## Currently learning
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=symfony,postgresql,redis,docker&theme=dark">
-</div>
-
-## Hobby
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,blender&theme=dark">
-</div>
-
-</div> -->
-
-<!-- <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,mysql&theme=dark&perline=8">
-</div> -->
-
-<!-- <div align="center">
-  <img src="https://skillicons.dev/icons?i=windows,arch,obsidian,vscode,neovim&theme=dark">
-</div> -->
