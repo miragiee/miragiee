@@ -13,7 +13,7 @@ I really like Game Development and Web Development.
 ## My Study Projects
 I have several programming projects.
 - [Praktikum](https://github.com/miragiee/praktikum) - A project I created with my friends. It's designed to simplify interactions between companies and universities.
-- [Shestyorochka](https://github.com/miragiee/shestyorochka) and [Barashek-Shawn](https://github.com/miragiee/barashek-shawn-public) - These are the projects I did for my coursework.
+- [Shestyorochka](https://github.com/miragiee/shestyorochka) and [Barashek Shawn](https://github.com/miragiee/barashek-shawn-public) - These are the projects I did for my coursework.
 
 I also have some design projects.
 - [Kashalot delivery landing page](https://www.figma.com/design/mqj8t1eMQL3uEXDCWYKy2T/%D0%9A%D0%B0%D1%88%D0%B0%D0%BB%D0%BE%D1%82?t=8k2nAJvrooktkSRS-1)
