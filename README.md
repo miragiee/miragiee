@@ -2,6 +2,8 @@
 
 I'm a computer science student from Russia.
 
+I really like GameDev and Web Development.
+
 ## Stack
 
 | Backend | Frontend | Databases | Tools | Currently learning |
