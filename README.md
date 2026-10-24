@@ -2,7 +2,7 @@
 
 I'm a computer science student from Russia.
 
-I really like GameDev and Web Development.
+I really like Game Development and Web Development.
 
 ## Stack
 
