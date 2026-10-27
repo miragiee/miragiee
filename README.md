@@ -1,34 +1,34 @@
-<h1 align="left">miragiee</h1>
+# Welcome
+I'm a computer science student from Russia.
 
-  **`CS Student`** &nbsp; **`Web Developer`** &nbsp; **`Game Developer`**
+I really like Game Development and Web Development.
 
+## Stack
 
-### 🌟 About Me
-Greetings! I'm **miragiee**, a Computer Science student based in the Russian Federation with a deep passion for Web Development and Game Development. My journey into tech is fueled by curiosity and a desire to build engaging digital experiences—from crafting clean, responsive user interfaces to engineering robust backend systems and interactive game mechanics.
+| Backend | Frontend | Databases | Tools | Currently learning |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=php,laravel,cs&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=git,figma&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=symfony,postgresql,redis,docker&theme=dark&perline=10"> |
 
-Currently, I am expanding my skills across a wide array of tools and frameworks, including PHP/Laravel, modern JavaScript/React stack, C#, and Unity. Whether working on university practice assignments, desktop tools, or web software, I thrive on learning new concepts and turning creative ideas into functional code.
+## My Study Projects
+I have several programming projects.
+- [Praktikum](https://github.com/miragiee/praktikum) - A project I created with my friends. It's designed to simplify interactions between companies and universities.
+- [Shestyorochka](https://github.com/miragiee/shestyorochka) and [Barashek Shawn](https://github.com/miragiee/barashek-shawn-public) - These are the projects I did for my coursework.
 
-<div align="left" style="display: flex; flex-wrap: wrap;">
-  <a href="https://github.com/miragiee?tab=repositories&sort=stargazers" style="text-decoration: none;"><img alt="Total Stars" title="Total Stars" src="https://img.shields.io/github/stars/miragiee?style=for-the-badge&color=FF69B4&label=Stars&logo=github&logoColor=white&labelColor=E91E63" /></a>&nbsp;
-  <a href="https://github.com/miragiee?tab=followers" style="text-decoration: none;"><img alt="GitHub Followers" title="Followers" src="https://img.shields.io/github/followers/miragiee?style=for-the-badge&color=BA68C8&label=Followers&logo=github&logoColor=white&labelColor=8E24AA" /></a>&nbsp;
-  <a href="https://github.com/miragiee" style="text-decoration: none;"><img alt="Profile Views" title="Views" src="https://komarev.com/ghpvc/?username=miragiee&color=FF69B4&style=for-the-badge&labelColor=FF69B4&logo=github&logoColor=white&label=Visitors"/></a>
+I also have some design projects.
+- [Kashalot delivery landing page](https://www.figma.com/design/mqj8t1eMQL3uEXDCWYKy2T/%D0%9A%D0%B0%D1%88%D0%B0%D0%BB%D0%BE%D1%82?t=8k2nAJvrooktkSRS-1)
+- [Few random pages](https://www.figma.com/design/hkAr8Kyz3scWXup1zrStmq/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-5?node-id=0-1&t=8k2nAJvrooktkSRS-1)
+- [Landing page prototype](https://www.figma.com/design/CpRFZ7zybjHraF97y6lKPx/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF-%D0%BB%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3%D0%B0?t=8k2nAJvrooktkSRS-1)
+- [Barashek Shawn restaurant brandbook](https://www.figma.com/design/w94rTZSYPdTwqRJBmwAwBK/%D0%A1%D0%BF%D0%B8%D1%80%D0%B8%D0%B4%D0%BE%D0%BD%D0%BE%D0%B2_%D0%91%D1%80%D0%B5%D0%BD%D0%B4%D0%B1%D1%83%D0%BA?t=8k2nAJvrooktkSRS-1)
+- [Barashek Shawn restaurant website](https://www.figma.com/design/SXm8IOV74uzrgzUa6LpgRW/%D0%A1%D0%BF%D0%B8%D1%80%D0%B8%D0%B4%D0%BE%D0%BD%D0%BE%D0%B2_%D0%91%D0%B0%D1%80%D0%B0%D1%88%D0%B5%D0%BA_%D0%A8%D0%BE%D0%BD?node-id=163-698&t=8k2nAJvrooktkSRS-1)
+- [Shestyorochka](https://www.figma.com/design/FT0aBjmlfPXcUJBb8FAtT5/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0?node-id=0-1&t=8k2nAJvrooktkSRS-1)
+- [Yoga mobile app](https://www.figma.com/design/fSpezdCIQrH8KAJn7C7MWg/Mobile-Application-Design?t=8k2nAJvrooktkSRS-1)
+
+## Stats
+
+<div align="left">
+    <img src="https://github-stats-extended.vercel.app/api?username=miragiee&show_icons=true&include_all_commits=true&theme=one_dark_pro&bg_color=00000000&hide_border=true">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=miragiee&langs_count=4&theme=one_dark_pro&bg_color=00000000&hide_border=true&layout=donut" height=195>
 </div>
-
-##
-
-### ⚙ Languages & Technologies <br><br>
-
-<p align="left">
-  <img 
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,c,cs,cpp,mysql,nginx,docker,unity,git,cmake,vscode,windows&perline=18"
-    width="100%"
-  />
-</p>
-
-##
-
-### 📊 GitHub Stats
-
 
 <div align="left">
   <picture>
@@ -38,38 +38,8 @@ Currently, I am expanding my skills across a wide array of tools and frameworks,
   </picture>
 </div>
 
-##
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miragiee&theme=dark" alt="Contribution Graph" />
-</p>
+## Hobbies
 
-##
-### 🌟 Top Repositories
-
-| Name | Description | Stars | Links |
-|---|---|---|---|
-| miragiee | Personal GitHub profile repository | 0 ⭐ | [View Repository](https://github.com/miragiee/miragiee) |
-| local-events | Учебная практика. 1 семестр 2026/2027 учебный год. | 0 ⭐ | [View Repository](https://github.com/miragiee/local-events) |
-| praktikum | Производственная практика. 2 семестр, 2025/2026 учебный год. | 0 ⭐ | [View Repository](https://github.com/miragiee/praktikum) |
-| shestyorochka | C# project | 0 ⭐ | [View Repository](https://github.com/miragiee/shestyorochka) |
-| barashek-shawn-public | JavaScript web application | 0 ⭐ | [View Repository](https://github.com/miragiee/barashek-shawn-public) |
-
-##
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=miragiee&theme=dark&row=1&column=6" />
-</p>
-
-##
-
-<p align="right">
-  <img align="right" src="https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp" height="180px" width="180px" />
-</p>
-
-### 🔗 Let's Connect!
-I'd love to connect & explore new possibilities together. Send a spark my way! ⚡ <br>
-<div align="left">
-  <a href="https://www.youtube.com/@miragiee" target="_blank"><img src="https://img.shields.io/badge/-YouTube-181717?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a> &nbsp;<a href="https://t.me/miragiee" target="_blank"><img src="https://img.shields.io/badge/-Telegram-181717?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a> &nbsp;
-</div>
+| Game Development | 3D Modeling | C Programming |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=cs,unity&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=blender&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark&perline=10"> |
