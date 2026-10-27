@@ -1,4 +1,4 @@
-<h1 align="left">miragiee <img align="center" src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="80" alt="Coding GIF"/></h1>
+<h1 align="left">miragiee</h1>
 
   **`CS Student`** &nbsp; **`Web Developer`** &nbsp; **`Game Developer`**
 
@@ -8,10 +8,27 @@ Greetings! I'm **miragiee**, a Computer Science student based in the Russian Fed
 
 Currently, I am expanding my skills across a wide array of tools and frameworks, including PHP/Laravel, modern JavaScript/React stack, C#, and Unity. Whether working on university practice assignments, desktop tools, or web software, I thrive on learning new concepts and turning creative ideas into functional code.
 
-<div align="left">
-    <img src="https://github-stats-extended.vercel.app/api?username=miragiee&show_icons=true&include_all_commits=true&theme=one_dark_pro&bg_color=00000000&hide_border=true">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=miragiee&langs_count=4&theme=one_dark_pro&bg_color=00000000&hide_border=true&layout=donut" height=195>
+<div align="left" style="display: flex; flex-wrap: wrap;">
+  <a href="https://github.com/miragiee?tab=repositories&sort=stargazers" style="text-decoration: none;"><img alt="Total Stars" title="Total Stars" src="https://img.shields.io/github/stars/miragiee?style=for-the-badge&color=FF69B4&label=Stars&logo=github&logoColor=white&labelColor=E91E63" /></a>&nbsp;
+  <a href="https://github.com/miragiee?tab=followers" style="text-decoration: none;"><img alt="GitHub Followers" title="Followers" src="https://img.shields.io/github/followers/miragiee?style=for-the-badge&color=BA68C8&label=Followers&logo=github&logoColor=white&labelColor=8E24AA" /></a>&nbsp;
+  <a href="https://github.com/miragiee" style="text-decoration: none;"><img alt="Profile Views" title="Views" src="https://komarev.com/ghpvc/?username=miragiee&color=FF69B4&style=for-the-badge&labelColor=FF69B4&logo=github&logoColor=white&label=Visitors"/></a>
 </div>
+
+##
+
+### ⚙ Languages & Technologies <br><br>
+
+<p align="left">
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,c,cs,cpp,mysql,nginx,docker,unity,git,cmake,vscode,windows&perline=18"
+    width="100%"
+  />
+</p>
+
+##
+
+### 📊 GitHub Stats
+
 
 <div align="left">
   <picture>
@@ -20,23 +37,6 @@ Currently, I am expanding my skills across a wide array of tools and frameworks,
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/miragiee/miragiee/main/github-snake.svg" />
   </picture>
 </div>
-
-##
-
-### ⚙ Languages & Technologies <br><br>
-
-| Backend | Frontend | Databases | Tools | Currently learning |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=php,laravel,cs&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=git,figma&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=symfony,postgresql,redis,docker&theme=dark&perline=10"> |
-
-##
-
-### 📊 GitHub Stats
-<p align="center"> 
-  <img height="180em" width="430" src="https://github-stats-extended.vercel.app/api?username=miragiee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> &nbsp;
-  <img height="180em" width="386" src="https://github-stats-extended.vercel.app/api/top-langs/?username=miragiee&layout=compact&theme=dark"/> <br>
-  <img src="https://streak-stats.demolab.com?user=miragiee&theme=dark" />
-</p>
 
 ##
 ### 📈 Contribution Graph
