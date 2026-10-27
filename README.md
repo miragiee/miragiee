@@ -1,5 +1,4 @@
 # Welcome
-## About me
 I'm a computer science student from Russia.
 
 I really like Game Development and Web Development.
