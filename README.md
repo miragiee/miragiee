@@ -3,13 +3,6 @@ I'm a computer science student from Russia.
 
 I really like Game Development and Web Development.
 
-<a href="https://www.youtube.com/@miragiee" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-181717?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-<a href="https://t.me/miragiee" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-181717?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-
 ## Stack
 
 | Backend | Frontend | Databases | Tools | Currently learning |
@@ -50,3 +43,11 @@ I also have some design projects.
 | Game Development | 3D Modeling | C Programming |
 | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=cs,unity&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=blender&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark&perline=10"> |
+<div align="center">
+    <a href="https://www.youtube.com/@miragiee" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-181717?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://t.me/miragiee" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-181717?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+</div>
