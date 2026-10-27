@@ -1,4 +1,4 @@
-<img width="100%" height="auto" alt="welcome" src="https://github.com/user-attachments/assets/15db7820-916a-4de7-8f10-69e79bc61d47" />
+# Welcome
 
 ---
 ## About me
