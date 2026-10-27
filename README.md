@@ -3,6 +3,13 @@ I'm a computer science student from Russia.
 
 I really like Game Development and Web Development.
 
+<a href="https://www.youtube.com/@miragiee" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-181717?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://t.me/miragiee" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-181717?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+
 ## Stack
 
 | Backend | Frontend | Databases | Tools | Currently learning |
