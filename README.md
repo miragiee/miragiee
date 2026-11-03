@@ -7,7 +7,7 @@ I really like Game Development and Web Development.
 
 | Backend | Frontend | Databases | Tools | Currently learning |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=git,figma&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=yii2,symfony,postgresql,redis,docker&theme=dark&perline=10"> |
+| <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=git,figma&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=symfony,postgresql,redis,docker&theme=dark&perline=10"> |
 
 ## My Study Projects
 I'm currently making
