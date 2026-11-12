@@ -10,7 +10,7 @@
 
 I have several finished programming projects.
 - [Praktikum](https://github.com/miragiee/praktikum) - A project I created with my friends. It's designed to simplify interactions between companies and universities.
-- [Shestyorochka](https://github.com/miragiee/shestyorochka), [Local events](https://github.com/miragiee/local-events) and [Barashek Shawn](https://github.com/miragiee/barashek-shawn-public) - These are the projects I did for my coursework.
+- [Shestyorochka](https://github.com/miragiee/shestyorochka), [Local Events](https://github.com/miragiee/local-events) and [Barashek Shawn](https://github.com/miragiee/barashek-shawn-public) - These are the projects I did for my coursework.
 
 ## Stats
 
