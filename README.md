@@ -1,5 +1,7 @@
 # Welcome
 
+I'm a computer science student from Russia.
+
 ## Stack
 
 | Backend | Frontend | Databases | Tools | Currently learning |
