@@ -8,12 +8,6 @@ I'm a computer science student from Russia.
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=git,figma&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=docker&theme=dark&perline=10"> |
 
-## My Study Projects
-
-I have several finished programming projects.
-- [Praktikum](https://github.com/miragiee/praktikum) - A project I created with my friends. It's designed to simplify interactions between companies and universities.
-- [Shestyorochka](https://github.com/miragiee/shestyorochka), [Local Events](https://github.com/miragiee/local-events) and [Barashek Shawn](https://github.com/miragiee/barashek-shawn-public) - These are the projects I did for my coursework.
-
 ## Stats
 
 <div align="left">
