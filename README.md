@@ -1,16 +1,14 @@
-# Welcome
+# Джамбо
 
-<!--
-I'm a computer science student from Russia.
+Я студент-программист. Мне нравится разработка веб-приложений и геймдев.
 
-## Stack
+## С чем могу работать
 
-| Backend | Frontend | Databases | Tools | Currently learning |
+| Backend | Frontend | Базы Данных | Инструменты | Пытаюсь учить |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=git,figma&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=docker&theme=dark&perline=10"> |
--->
 
-## Stats
+## Статы
 
 <div align="left">
     <img src="https://github-stats-extended.vercel.app/api?username=miragiee&show_icons=true&include_all_commits=true&theme=one_dark_pro&bg_color=00000000&hide_border=true">
@@ -24,10 +22,10 @@ I'm a computer science student from Russia.
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/miragiee/miragiee/main/github-snake.svg" />
   </picture>
 </div>
-<!--
-## Hobbies
+
+## Хобби
 
 | Game Development | 3D Modeling | C Programming |
 | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=cs,unity&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=blender&theme=dark&perline=10"> | <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark&perline=10"> |
--->
+
